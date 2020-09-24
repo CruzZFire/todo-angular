@@ -1,0 +1,11 @@
+.header {
+    background: darkslategrey;
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem;
+}
+
+.header a {
+    color: whitesmoke;
+    text-decoration: none;
+}

@@ -1,0 +1,21 @@
+.todo {
+    background: whitesmoke;
+    padding: 1.5rem;
+    border-bottom: 1px grey dotted;
+}
+
+.is-complete {
+    text-decoration: line-through;
+    text-decoration-color: darkred;
+}
+
+.del {
+    background: darkred;
+    color: whitesmoke;
+    border: none;
+    border-radius: 50%;
+    outline: none;
+    padding: 0.5rem 0.7rem;
+    cursor: pointer;
+    float: right;
+}
